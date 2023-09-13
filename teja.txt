@@ -2,3 +2,4 @@ this is newly created file by teja
 <<<<<<< HEAD
 I am Teja
 1st line of comit
+commiting for the secong time.
